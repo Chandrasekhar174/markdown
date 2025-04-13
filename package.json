@@ -1,0 +1,20 @@
+{
+  "name": "markdown-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "marked": "^15.0.8",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-draggable": "^4.4.6"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
